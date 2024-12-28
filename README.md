@@ -1,6 +1,6 @@
 # CS 458: Mobile Application Development
 
-**NOTE, as per syllabus guidelines, most assignments are omitted. A private repository is avalible upon request.**
+**NOTE, as per syllabus guidelines, most assignments are omitted. A private repository is available upon request.**
 
 ## Course Overview
 This repository contains various projects from CS 458: Mobile Application Development, a course taken at Eastern New Mexico University during Fall 2023. The course focused on establishing a foundation for designing, developing, and deploying mobile applications. Students explored:
