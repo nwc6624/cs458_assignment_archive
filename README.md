@@ -1,7 +1,9 @@
 # CS 458: Mobile Application Development
 
+**NOTE, as per syllabus guidelines, most assignments are omitted. A private repository is avalible upon request.**
+
 ## Course Overview
-This repository contains selected projects from CS 458: Mobile Application Development, a course taken at Eastern New Mexico University during Fall 2023. The course focused on establishing a foundation for designing, developing, and deploying mobile applications. Students explored:
+This repository contains various projects from CS 458: Mobile Application Development, a course taken at Eastern New Mexico University during Fall 2023. The course focused on establishing a foundation for designing, developing, and deploying mobile applications. Students explored:
 - The value of mobile applications in enterprise contexts
 - Development principles for Android and iOS
 - Rapid prototyping and design within Android Studio
@@ -20,7 +22,9 @@ The project repository is hosted separately and can be accessed here:
 [ENMUmobile GitHub Repository](https://github.com/nwc6624/ENMU_CS_458_Semester_Project)
 
 ## Note
-This repository contains only selected prototypes and assignments from the course. The final semester project, **ENMUmobile**, is located in its own repository.
+This repository contains only a few prototypes and assignments from the course. The final semester project, **ENMUmobile**, is located in its own repository.
+
+
 
 ## Author
 Noah Caulfield  
